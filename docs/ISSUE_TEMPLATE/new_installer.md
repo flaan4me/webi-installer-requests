@@ -1,7 +1,7 @@
 ---
 name: New Installer
 about: Create a new installer for webinstall.dev
-title: '[Installer] Add CHANGE-ME'
+title: '[Installer] Add PUT_WHAT_YOU_WANT_HERE'
 labels:
   - 'good first issue'
   - first-timers-only
@@ -10,11 +10,11 @@ labels:
 
 <!-- Please fill out the information below -->
 
-# Add CHANGE-ME
+# Add PUT_WHAT_YOU_WANT_HERE
 
 <!-- what do you want to see added to webinstall.dev? why? -->
 
-We want to add `CHANGE-ME` because...
+We want to add `PUT_WHAT_YOU_WANT_HERE` because...
 
 - it works consistently across Windows, Mac, and Linux.
 
